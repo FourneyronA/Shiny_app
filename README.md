@@ -14,4 +14,3 @@ Enfin, nous apportons une visualisation animée des concentrations spatiales par
 Le rayon de maillage des concentrations est réglable afin d'avoir différentes possibilités d'analyse.
 
 Le jeu de donnée nécéssite : position lat/long, catégories, date
-Nous avons ajoutés un fond de carte (département de Paris) pour facilité la visualisation et la compréhension du jeu de donnée.
